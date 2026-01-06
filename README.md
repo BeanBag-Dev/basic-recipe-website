@@ -1,0 +1,1 @@
+This project is my own attempt at following The Odin Project's recipe website project
