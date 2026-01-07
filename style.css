@@ -1,0 +1,11 @@
+div {
+  color: white;
+  background-color: black;
+}
+
+h1 {
+  color: red;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 50px;
+  text-align: center;
+}
